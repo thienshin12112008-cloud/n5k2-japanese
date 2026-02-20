@@ -1016,6 +1016,26 @@ footer {
     background: #764ba2;
 }
 
+.btn-view {
+    background: #667eea;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.3s;
+    white-space: nowrap;
+}
+
+.btn-view:hover {
+    background: #764ba2;
+}
+
+.doc-item {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* Test Page */
 .test-stats {
     display: grid;
